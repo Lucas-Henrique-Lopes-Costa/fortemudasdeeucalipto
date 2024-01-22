@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários para FORTE MUDAS FLORESTAIS &#x1f331;	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Mudas de Eucalipto com qualidade e excelência &#x1f332;&#x1f331;</description>
 	<lastBuildDate>Sun, 07 May 2023 13:15:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comentário em Hello world! por A WordPress Commenter		</title>
-		<link>/2023/05/07/hello-world/#comment-1</link>
+		<link>./../../2023/05/07/hello-world/index.html#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 07 May 2023 13:15:50 +0000</pubDate>
